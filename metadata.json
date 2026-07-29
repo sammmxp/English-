@@ -1,0 +1,6 @@
+{
+  "name": "Velorah",
+  "description": "Cinematic hero section with glassmorphism and looping video background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
